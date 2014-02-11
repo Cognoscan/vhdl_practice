@@ -1,0 +1,4 @@
+# Files to ignore
+
+# Modelsim work library
+work/
